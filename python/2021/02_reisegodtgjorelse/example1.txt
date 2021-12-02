@@ -1,0 +1,4 @@
+city,location
+Salinas,Point(-121.655555555 36.677777777)
+Tehran,Point(51.416666666 35.7)
+Düsseldorf,Point(6.772380555 51.231144444)
